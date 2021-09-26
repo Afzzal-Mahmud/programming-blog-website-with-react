@@ -1,0 +1,23 @@
+header{
+    background-color: #006573;
+    padding:1rem 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img{
+    width: 120px;
+}
+.nav-link ul {
+    display: flex;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: bold;
+    color: #e8e5e1;
+    letter-spacing: 2.5px;
+}
