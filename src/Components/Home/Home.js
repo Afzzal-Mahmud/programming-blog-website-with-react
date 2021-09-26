@@ -53,8 +53,8 @@ function Home() {
         {/* second half of the main Home component */}
         <div style={{color:"#22202b"}}>
 
-          <h3> Total Clicked : {deshboardData.length} </h3>
-          <h3>Total Daily User : {totalDailyUser} </h3>
+          <h3> Total Added : {deshboardData.length} </h3>
+          <h3> Daily User : {totalDailyUser} </h3>
 
           {/* all clicked data is go to the Store Data components and also randomize the key because of same two click of the same button*/}
           {

@@ -3,10 +3,13 @@
 
 **Note: The problem I face into this project back!**
 
-1 / actually speacking there is no problem I face in this project 
+1 / actually speacking there is no problem I face to working this   project 
+2 / just forget some required feature and added at last commit
 
 # The main thing about this project is
 **Note: About Analize the json data is more complicated to work with then next thing is the packeg maneger!**
+
+# Happy codding
 
 # Getting Started with Create React App
 
