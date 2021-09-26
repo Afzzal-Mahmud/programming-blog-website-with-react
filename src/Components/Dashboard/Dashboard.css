@@ -1,0 +1,34 @@
+.heading{
+    font-size: 15px;
+}
+.dashboard-body{
+    border: 1px solid #ebe4f1;
+    border-radius: 3px;
+    padding: 1em;
+    margin: 1em;
+    background: white;
+    color: #22202b;
+    position: relative;
+}
+.dashboard-info{
+    padding: 1em 0;
+}
+.dashboard-img{
+    text-align: center;
+}
+.dashboard-img img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+button{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    padding: 1em;
+    background: #b9e2b9;
+    font-weight: bold;
+    cursor: pointer;
+}
