@@ -1,20 +1,24 @@
 .heading{
     font-size: 15px;
 }
+/* body of the card */
 .dashboard-body{
     border: 1px solid #ebe4f1;
     border-radius: 3px;
     padding: 1em;
     margin: 1em;
-    background: white;
+    background: whitesmoke;
     color: #22202b;
     position: relative;
 }
+/* main info of the card */
 .dashboard-info{
     padding: 1em 0;
 }
+/* for center align the image and name */
 .dashboard-img{
     text-align: center;
+    color: #352776;
 }
 .dashboard-img img{
     width: 80px;
@@ -22,6 +26,7 @@
     border-radius: 50%;
     overflow: hidden;
 }
+/* for the card button so it alwase on the bottom */
 button{
     position: absolute;
     bottom: 0;

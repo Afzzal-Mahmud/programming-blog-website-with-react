@@ -1,0 +1,20 @@
+  /* align the name and image with overview class */
+  .overview{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+  }
+  /* style for this website name */
+ .nameStyle{
+    margin-right:2rem;
+    color:#352776;
+    text-align:center
+}
+
+/* style for small image */
+.imgStyle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+}

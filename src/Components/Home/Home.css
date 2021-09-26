@@ -1,3 +1,4 @@
+/* dividing the body into tow part by home-container */
 .home-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
