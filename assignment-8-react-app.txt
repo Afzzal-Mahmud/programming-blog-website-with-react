@@ -1,0 +1,3 @@
+GitHub-code-link :  https://github.com/ProgrammingHeroWC4/the-superhero-direction-Afzzal-Mahmud
+
+Netlify-live-site :  https://simple-react-developer-blog.netlify.app/

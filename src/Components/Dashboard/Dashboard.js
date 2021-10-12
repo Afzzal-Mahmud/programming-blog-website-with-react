@@ -7,6 +7,7 @@ import { PeopleFill , AwardFill } from 'react-bootstrap-icons';
 function DashboardCard(props) {
     /* using distructuring to recive blog object and clik event */
     const {websiteName, image, ceo, dailyUser, moto,type,startingDate}=props.blogObject;
+    /* comes from home components */
     const clickEvent = props.clickEvent; 
 
     return(

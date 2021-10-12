@@ -11,10 +11,9 @@ function Header() {
                 </div>
                 <div className="nav-link">
                     <ul>
-                        <li><a href="#">Budget : 2000 Million</a></li>
                         <li><a href="/Home">Home</a></li>
                         <li><a href="/About">About</a></li>
-                        <li><a href="/Services">Services</a></li>
+                        <li><a href="/login">Log-In</a></li>
                     </ul>
                 </div>
             </nav>
